@@ -22,7 +22,7 @@ Can we predict if a user will skip a song based on session context, track metada
 - Key Drivers of Skipping: Listening context, reason for playback start/end
 
 ## 📄 Report
-See the full project report [here](Spotify_Skip_Analysis_Report.pdf).
+See the full project report [https://drive.google.com/file/d/1SKfg1We4_NVS8hMRf437jY8B2otsTuui/view?usp=sharing]
 
 ## 🧠 Model
 - Classifier: `LGBMClassifier`
